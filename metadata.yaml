@@ -1,0 +1,37 @@
+_repo: Caw--Caw---13-Or-The-Chronicle-of-Crows-A-Tale-of-the-Spring-time_22374
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Blackburn, Jemima
+    aliases:
+    - Wedderburn, Jemima
+    - J. B. (Jemima Blackburn)
+    - Blackburn, Jane
+    - Blackburn, Hugh, Mrs.
+    birthdate: 1823
+    deathdate: 1909
+    gutenberg_agent_id: '36425'
+    url: http://www.gutenberg.org/2009/agents/36425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: R. M.
+    gutenberg_agent_id: '25295'
+    url: http://www.gutenberg.org/2009/agents/25295
+description: ''
+gutenberg_issued: '2007-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spring -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Crows -- Juvenile poetry'
+title: Caw! Caw! Or, The Chronicle of Crows, A Tale of the Spring-time
+url: http://www.gutenberg.org/ebooks/22374
