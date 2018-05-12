@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '25295'
     url: http://www.gutenberg.org/2009/agents/25295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22374#Caw--Caw---13-Or-The-Chronicle-of-Crows-A-Tale-of-the-Spring-time
 gutenberg_issued: '2007-08-22'
 gutenberg_type: Text
 identifiers:
